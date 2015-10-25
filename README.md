@@ -10,7 +10,7 @@ Android application (Will use Java)<br>
 Server application (Will use C++ or others)<br>
 
 <h2>정책</h2>
-<br>
+`Pull Request시 주의할 점...`<br>
 <br>
 
 
